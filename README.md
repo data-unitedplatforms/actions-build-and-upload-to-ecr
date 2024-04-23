@@ -1,4 +1,4 @@
-# actions-build-and-upload-to-ecs
+# actions-build-and-upload-to-ecr
 
 This action builds a Docker image and uploads it to the Amazon Elastic Container Registry (Amazon ECR) repository.
 
